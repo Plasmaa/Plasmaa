@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zarifpious@gmail.com**
 
-- ⚡ Fun fact **No Fun fact**
+- ⚡ Fun fact **Football fan, but I spend more time with my IDE than on the field**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
