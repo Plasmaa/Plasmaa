@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zarif</h1>
-<h3 align="center">An AI enthusiast</h3>
+<h3 align="center">A Tech Enthusiast</h3>
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Plasmaa/Machine-Learning.git)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://plasmaa.github.io/Portfolio/](https://plasmaa.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://zarifportfolio.vercel.app/](https://zarifportfolio.vercel.app/)
+
+- 👨‍💻 My Blogs are available at [https://theneuralpath.netlify.app/](https://theneuralpath.netlify.app/)
 
 - 📫 How to reach me **zarifpious@gmail.com**
 
