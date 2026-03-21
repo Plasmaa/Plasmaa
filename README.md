@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://zarifportfolio.vercel.app/](https://zarifportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://zarifportfolio.vercel.app/)
 
-- 👨‍💻 My Blogs are available at [https://theneuralpath.netlify.app/](https://theneuralpath.netlify.app/)
+- 👨‍💻 My Blogs are available at [The Neural Path](https://theneuralpath.netlify.app/)
 
 - 📫 How to reach me **zarifpious@gmail.com**
 
