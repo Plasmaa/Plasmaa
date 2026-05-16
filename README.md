@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hey there, I'm **Zarif** 👋
-### `{ Data Scientist · ML Engineer · Builder }`
+### `{ Data Scientist · AI/ML Engineer · Builder }`
 
 *Turning raw data into decisions that actually matter*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Data+Science;React+%7C+Full+Stack+Development;Always+learning+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Data+Science;NestJS+%7C+Full+Stack+Development;Always+learning+something+new...)](https://git.io/typing-svg)
 
 ---
 
